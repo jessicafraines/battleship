@@ -1,0 +1,19 @@
+{
+  "name": "Battleship",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jessicafraines/battleship",
+  "authors": [
+    "jessicafraines <jessicafraines@gmail.com>"
+  ],
+  "description": "A multiplayer battleship game",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
